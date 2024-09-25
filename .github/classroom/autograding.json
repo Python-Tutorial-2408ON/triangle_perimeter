@@ -3,7 +3,7 @@
     {
       "name": "Test if File exists",
       "setup": "",
-      "run": "python -m unittest test_greet.Test.test_file_exists",
+      "run": "python -m unittest test_triangle_perimeter.Test.test_file_exists",
       "input": "",
       "output": "",
       "comparison": "included",
@@ -11,9 +11,9 @@
       "points": 10
     },
     {
-      "name": "Test greet Function",
+      "name": "Test triangle_perimeter Function",
       "setup": "",
-      "run": "python -m unittest test_greet.Test.test_greet",
+      "run": "python -m unittest test_triangle_perimeter.Test.test_triangle_perimeter",
       "input": "",
       "output": "",
       "comparison": "included",
